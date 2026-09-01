@@ -62,6 +62,13 @@ Snapshots are created every 6 hours and stored for fast node synchronization. On
 
 ### Latest Snapshot
 
+| Field | Value |
+|-------|-------|
+| **Height** | 124,979 |
+| **Size** | 2.2G |
+| **Created** | 2026-09-01 15:53 UTC |
+| **Update frequency** | Every 6 hours |
+
 See the live snapshot page for the most up-to-date information:
 https://snapshots.apollo-validator.eu/gnoland-pearl/
 
